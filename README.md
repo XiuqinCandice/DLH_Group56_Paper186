@@ -19,7 +19,7 @@ The experiments require an Intel (R) Xeon (R) CPU @ 2.3GHz with 36GB RAM and a T
 1. Clone the code to local.   
 ```
 https://github.com/XiuqinCandice/DLH_Group56_Paper186.git
-cd ConvolutionMedicalNer
+cd DLH_Group56_Paper186
 ```
 2. Run MIMIC-Extract Pipeline as explained in https://github.com/MLforHealth/MIMIC_Extract.   
 

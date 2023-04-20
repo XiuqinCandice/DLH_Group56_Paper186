@@ -6,8 +6,8 @@ xiuqing2@illinois.edu
 
 Link to Original Paper: https://pubmed.ncbi.nlm.nih.gov/34127241/
 
-        Bardak B, Tan M. Improving clinical outcome predictions using convolution over medical entities with multimodal learning. 
-        Artif Intell Med. 2021 Jul;117:102112. doi: 10.1016/j.artmed.2021.102112. Epub 2021 May 13. PMID: 34127241.
+    Bardak B, Tan M. Improving clinical outcome predictions using convolution over medical entities with multimodal learning. 
+    Artif Intell Med. 2021 Jul;117:102112. doi: 10.1016/j.artmed.2021.102112. Epub 2021 May 13. PMID: 34127241.
 
 
 Link to Original Code Repository: https://github.com/tanlab/ConvolutionMedicalNer

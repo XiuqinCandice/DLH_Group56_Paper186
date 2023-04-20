@@ -13,9 +13,9 @@ Link to Original Code Repository: https://github.com/tanlab/ConvolutionMedicalNe
 
 ## Dependencies
 
-Python 3.7
-Jupyter Notebook
-Tensorflow v1
+* Python 3.7
+* Jupyter Notebook
+* Tensorflow v1
 
 ## Data
 I access to the MIMIC-III dataset by following this tutorial: https://eicu-crd.mit.edu/gettingstarted/access/
